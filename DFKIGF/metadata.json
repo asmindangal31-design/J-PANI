@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix BooyahDesk — Free Fire Tournament Points \u0026 Leaderboard Manager",
+  "description": "Customizable Free Fire tournament point calculator, automated leaderboard dashboard, and broadcast-ready points table studio for esports organizations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
